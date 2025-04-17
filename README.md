@@ -1,12 +1,26 @@
-- 👋 Hi, I’m @Affi012
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Hi, I’m @Affi  
+**Game Developer | Creative Coder | Builder of Virtual Worlds**
 
-<!---
-Affi012/Affi012 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**I’m interested in**  
+- Game Mechanics & Level Design  
+- Unity & Unreal Engine Development  
+- Game AI & Physics  
+- Multiplayer Game Systems  
+- AR/VR Experiences  
+
+**I’m currently learning**  
+- Advanced Unity with C#  
+- Unreal Engine 5 with Blueprints  
+- Real-time Multiplayer Game Development  
+- Shader Programming & VFX  
+
+**I’m looking to collaborate on**  
+- Indie games with engaging narratives  
+- Cross-platform game projects  
+- Open-source tools for game developers  
+
+**How to reach me**  
+- Email: affieahmad012@gmail.com   
+
+**Fun fact**  
+I design boss fights so good, even I need a cheat code to beat them!
